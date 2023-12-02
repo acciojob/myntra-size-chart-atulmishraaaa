@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+td,th{
+	border:2px solid black;
+	
+}
+table{
+	border:2px solid black ;
+	width:100%;
+}
+thead{
+	background-color:#C0504D;
+	color:white;
+}
+.first{
+	background-color:#DA9694;
+	color:white;
+}
+.second{
+	background-color:#F2DCDB;
+}
+.third{
+	background-color:#D9D9D9;
+}
+th{
+	text-align:left;
+}
+td{
+	text-align:right;
+}
+.align{
+	text-align:left;
+}
